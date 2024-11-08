@@ -23,6 +23,7 @@ for course in allCourses:
 
 
 print(filtered_courses)
+print("Hello")
     # with open("_html_req.txt", "w", encoding="utf-8") as f:
     #     f.write(req_response_text)
 
