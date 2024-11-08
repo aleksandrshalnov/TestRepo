@@ -35,7 +35,12 @@ class Person():
 # John = Person("John", 32)
 # John.age = 45
 # John.about_me()
+#tgggg
+
 #hjhjhjhj
+#hjhjhjhj#hjhjhjhj
+#hjhjhjhj
+
 # John.test(1,3,4,5, city="kostroma")
 
 @trace
